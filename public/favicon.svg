@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Smooth dark rounded background that matches a dark mode theme -->
+  <rect width="100" height="100" rx="25" fill="#212529"/>
+  
+  <!-- Clean, sharp code brackets text centered perfectly -->
+  <text x="50%" y="65%" 
+        font-family="monospace, sans-serif" 
+        font-size="52" 
+        font-weight="bold" 
+        fill="#4db6ac" 
+        text-anchor="middle">SK</text>
+</svg>

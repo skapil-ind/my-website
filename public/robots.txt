@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Point search engines to your sitemap
+Sitemap: https://sukrit.me/sitemap.xml
